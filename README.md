@@ -78,11 +78,6 @@ Live Subtitles ist eine Open-Source-Anwendung, die Systemaudio und Mikrofoneinga
 
 ---
 
-## 📜 License | Lizenz
-This project is licensed under the MIT License - see the [LICENSE](#) file for details.  
-
----
-
 ## Acknowledgments | Danksagungen
 - **OpenAI Whisper** – Speech-to-text model  
 - **PyTorch** – Machine learning framework  
@@ -90,5 +85,5 @@ This project is licensed under the MIT License - see the [LICENSE](#) file for d
 - **WebRTC VAD** – Voice activity detection  
 
 <p align="center">
-Developed with ❤️ | Entwickelt mit ❤️
+Entwickelt mit ❤️
 </p>
