@@ -1,7 +1,7 @@
 # Live Subtitles | Live-Untertitel
 
 <p align="center">
-<img src="path/to/app_icon.png" alt="Live Subtitles Logo" width="120"/>
+<img src="Images/app_icon.ico" alt="Live Subtitles Logo" width="120"/>
 </p>
 <p align="center">
 <b>Real-time system audio to text transcription | Echtzeit-Transkription von System-Audio in Text</b>
@@ -27,11 +27,11 @@ Live Subtitles ist eine Open-Source-Anwendung, die Systemaudio und Mikrofoneinga
 
 ## 🖼️ Screenshots | Bildschirmfotos
 <p align="center">
-<img src="path/to/screenshot1.png" alt="Main Interface" width="600"/>
+<img src="Images/Screenshot1.png" alt="Main Interface" width="600"/>
 <br><em>Main Interface - Live Subtitles in action</em>
 </p>
 <p align="center">
-<img src="path/to/screenshot2.png" alt="Settings Panel" width="600"/>
+<img src="Images/Screenshot2.png" alt="Settings Panel" width="600"/>
 <br><em>Settings Panel - Customize your experience</em>
 </p>
 
