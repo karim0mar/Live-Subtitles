@@ -31,8 +31,8 @@ Live Subtitles ist eine Open-Source-Anwendung, die Systemaudio und Mikrofoneinga
 <br><em>Main Interface - Live Subtitles in action</em>
 </p>
 <p align="center">
-<img src="Images/Screenshot2.png" alt="Settings Panel" width="600"/>
-<br><em>Settings Panel - Customize your experience</em>
+<img src="Images/Screenshot2.png" alt="Preview" width="600"/>
+<br><em>With a settings Panel - Customize your experience</em>
 </p>
 
 ---
